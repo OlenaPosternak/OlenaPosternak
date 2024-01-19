@@ -4,7 +4,8 @@ I'm a FrontEnd developer with 1 year of experience. I can collaborate effectivel
 interested in becoming a strong FrontEnd or even FullStack developer.
 Ready for challenging tasks, interesting projects and new opportunities.
 ## 
-My Resume -> [CV👩‍💻](https://drive.google.com/file/d/1kOKzw1iPYZWfTrCbRZ3m7Xp0za2OEPsF/view)
+### My Resume -> [CV👩‍💻](https://drive.google.com/file/d/1kOKzw1iPYZWfTrCbRZ3m7Xp0za2OEPsF/view)
+##
 ### My primary technology stack includes :
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS%20-%20%231572B6?style=flat&logoColor=white)
