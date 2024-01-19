@@ -20,22 +20,15 @@ My Resume -> [CV👩‍💻](https://drive.google.com/file/d/1kOKzw1iPYZWfTrCbRZ
 ![Static Badge](https://img.shields.io/badge/Node.js%20-%20%23339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB%20-%20%2347A248?style=flat&logo=mongodb&logoColor=white)
 
+##
+### My contacts :
+
+<a href="https://linkedin.com/in/posternakolena" target="blank">![Static Badge](https://img.shields.io/badge/LinkedIn-%20%230A66C2?style=flat&logo=linkedin&logoColor=white)</a>
+
+<a href="mailto:alena.kavyrshyna@gmail.com" target="blank">![Static Badge](https://img.shields.io/badge/Email%20-%20%23EA4335?style=flat&logo=gmail&logoColor=white)</a>
 
 
+##
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlenaPosternak&layout=compact)
 
-
-<!--
-**OlenaPosternak/OlenaPosternak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
