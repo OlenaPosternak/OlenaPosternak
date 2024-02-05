@@ -1,6 +1,6 @@
 ## Hi, I'm Olena 👋
 
-I'm a Front end developer with 1 year of experience. I can collaborate effectively within a team, but I'm also equally capable of working independently when the situation demands it. Currently, I'm
+I'm a FrontEnd developer with 1 year of experience. I can collaborate effectively within a team, but I'm also equally capable of working independently when the situation demands it. Currently, I'm
 interested in becoming a strong FrontEnd or even FullStack developer.
 Ready for challenging tasks, interesting projects and new opportunities.
 ## 
